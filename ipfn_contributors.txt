@@ -19,3 +19,8 @@ https://github.com/harisbal
 
 mattswoon
 https://github.com/mattswoon
+
+dhruv-panther
+hasan@panther-home.com
+https://github.com/dhruv-panther
+Added new algoriths and polars support
